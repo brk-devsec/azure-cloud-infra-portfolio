@@ -1,4 +1,4 @@
-# ☁️ Azure 하이브리드 클라우드 인프라 구축
+# ☁️ Azure 클라우드 인프라 및 M365 Defender 보안구축
 
 > **Terraform 기반 Azure Hub-Spoke 아키텍처 · 다중 리전 DR · 하이브리드 VPN 연동**
 
