@@ -18,7 +18,7 @@
 | 항목 | 내용 |
 |------|------|
 | 기간 | 2026.05.13 ~ 2026.05.19 |
-| 팀 | 1조 (5인) |
+| 팀 | 1조 (4인) |
 | IaC 도구 | Terraform (azurerm 4.74.0) |
 | 주 리전 | Korea Central (Active) |
 | DR 리전 | Japan East (Standby) |
